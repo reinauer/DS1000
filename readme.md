@@ -2,7 +2,7 @@
 
 This project lets you use SMD delay lines on old iron like Amiga computers.
 
-![Delay Line Adapter](ds1100.png)
+![Delay Line Adapter](DS1000.png)
 
 You can order this project [on PCBWay](https://www.pcbway.com/project/shareproject/DS1000_Delay_Line_Adapter.html)
 
