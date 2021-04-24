@@ -1,0 +1,9 @@
+# Ignore Kicad temporary files
+fp-info-cache
+fp-lib-table
+sym-lib-table
+gerber/
+
+.DS_Store
+
+*.bak
